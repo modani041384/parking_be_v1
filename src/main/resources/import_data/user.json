@@ -1,0 +1,14 @@
+[
+  {
+    "userId" : "3e5ad0fb-6a97-4889-bffb-8267aa0ae1cc",
+    "userName" : "admin@gmail.com.vn",
+    "password" : "$2a$10$GsDJmXxMCYF8wC2D3LxLiOXwAGQRo0dAI3YByWzZ9x/He9ShqSmSO",
+    "active" : "1"
+  },
+  {
+    "userId" : "d100d74e-b15f-4a51-bdd5-2b60f71df7a4",
+    "userName" : "customer@gmail.com.vn",
+    "password" : "$2a$10$Iyvgq7ZG8fjbqvYrCMEh2OQyCfeLFEqNEwpqJJvl1HDiCgZ6EGHSK",
+    "active" : "1"
+  }
+]

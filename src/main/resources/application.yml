@@ -1,0 +1,24 @@
+server:
+  port: 8081
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://localhost:3306/smart_parking
+    username: root
+    password:
+    #password: Sa@asdfSFS?34wfsdfsdfS
+jwt:
+  secret: asdfSFS34wfsdfsdfSDSD32dfsddDDerQSNCK34SOWEK5354fdgdf4
+  # 1 week
+  #expiration: 604800000
+  # 1 day
+  #expiration: 86400000
+  # 1 hour
+  #expiration: 3600000
+  # 16 hours
+  expiration: 57600000
+import:
+  data:
+    isRun: false

@@ -1,0 +1,18 @@
+[
+  {
+    "userId" : "3e5ad0fb-6a97-4889-bffb-8267aa0ae1cc",
+    "roleId": 1
+  },
+  {
+    "userId" : "3e5ad0fb-6a97-4889-bffb-8267aa0ae1cc",
+    "roleId": 3
+  },
+  {
+    "userId" : "d100d74e-b15f-4a51-bdd5-2b60f71df7a4",
+    "roleId": 2
+  },
+  {
+    "userId" : "d100d74e-b15f-4a51-bdd5-2b60f71df7a4",
+    "roleId": 3
+  }
+]
