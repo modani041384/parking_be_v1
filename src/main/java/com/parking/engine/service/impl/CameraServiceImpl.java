@@ -1,7 +1,6 @@
 package com.parking.engine.service.impl;
 
 import com.parking.engine.entity.Camera;
-import com.parking.engine.entity.ParkingLane;
 import com.parking.engine.mapper.CameraMapper;
 import com.parking.engine.mapper.MapperUtils;
 import com.parking.engine.repository.CameraRepository;
@@ -17,7 +16,6 @@ import javax.persistence.Query;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
-import java.util.Set;
 import java.util.stream.Collectors;
 
 @Service
